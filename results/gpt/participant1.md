@@ -1,6 +1,6 @@
 # Participant 1
 
-# GPT Voice
+# GPT Voice (6DTET9)
 
 Data to Collect from specifically the experiment portion
 
@@ -39,8 +39,7 @@ frustrations all together as well
 
   - Very engaged because it was fast paced. If it was slower, would be less fun/engaging. There was a challenge to it because of the speed
 
-- **How did interacting with the voice make you feel throughout the process?
-  (e.g., frustrated, encouraged, neutral…)?**
+- **How did interacting with the voice make you feel throughout the process? (e.g., frustrated, encouraged, neutral…)?**
 
   - Neutral
 
