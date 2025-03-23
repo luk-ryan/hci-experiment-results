@@ -1,6 +1,6 @@
-# Participant X
+# Participant 1
 
-# [Type] Voice
+# GPT Voice
 
 Data to Collect from specifically the experiment portion
 
@@ -27,30 +27,30 @@ frustrations all together as well
 
 - **What keywords would you use to describe the voice you worked with?**
 
-  -
+  - Robotic, clear, fast
 
 - **How easy or difficult was it to understand the instructions given by the voice?**
 
-  -
+  - Super Clear, very Easy
 
 ## Trust Rating (Engagement & Motivation + Emotional Response):
 
 - **Did the voice make the task feel more or less engaging? Why do you think that was?**
 
-  -
+  - Very engaged because it was fast paced. If it was slower, would be less fun/engaging. There was a challenge to it because of the speed
 
 - **How did interacting with the voice make you feel throughout the process?
   (e.g., frustrated, encouraged, neutral…)?**
 
-  -
+  - Neutral
 
 - **Did the specific tone or style of the voice influence your mood or attitude while following instructions?**
 
-  -
+  - No it did not; monotone but not necisarily bad
 
 ## User Satisfaction (Final Thoughts):
 
 - **How would you describe your overall experience working with the voice to
   complete the task?**
 
-  -
+  - The voice made it easy to complete the task. No emotions involved because the task itself was simple
