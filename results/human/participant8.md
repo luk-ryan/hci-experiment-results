@@ -36,11 +36,14 @@ Data to Collect from specifically the experiment portion
   - 10 - 20
   - 19 - 25
 - Number of steps done correctly per correctness chain:
-  - 1 - 2
-  - 1 - 23
-  - 1 - 25
+  - 1 - 1 (Attempt #1. Failed on step 2)
+  - 1 - 1 (Attempt #2 after finishing & failing)
+  - 1 - 1 (Attempt #2, go back to step 1 request #1)
+  - 1 - 2 (Attempt #2, go back to step 1 request #2)
+  - Null (Attempt #2, go back to step 1 request #3. Did not reset shapes and error persists)
+  - 1-25 (Attempt #3, includes go back to step 1 request #4, but chain was still correct)
 - Number of breaks from correctness (should be close to/the same as stops):
-  - 2
+  - 4 (2 stop requests, 2 stops in between attempts)
 - Time from the end of the first instruction to completion:
   - 10m 39s [2:17 - 12:56]
 - Time between all repeats:
