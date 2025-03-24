@@ -1,0 +1,74 @@
+Human voice - HCHEY7
+
+Number of repeats TOTAL:
+3
+Number of repeats per instruction:
+2: 1
+20: 1
+15: 1
+Number of repeats from the beginning:
+0
+Number of stops/pauses requested:
+0
+Number of failures (When they show their work and the proctor concludes it as incorrect):
+0
+Number of steps they followed continously before stopping:
+1-1
+3-3
+5-9
+2-18
+21-25
+Number of steps done correctly per correctness chain:
+1 (1)
+3 (1)
+2-18 (16)
+20-25 (5)
+15-25 (10)
+Number of breaks from correctness (should be close to/the same as stops):
+5
+Time from the end of the first instruction to completion:
+[6:04-8:50]
+Time between all repeats:
+beg-6:34
+6:39-7:50
+7:54-8:19
+8:19-8:50
+Time between failures:
+N/A
+
+Notes from quantitative:
+didn't ask for stops
+asked if he was done before the last step was said as he was reaching the end
+put shapes back by trying to put them to origin through most of the experiment
+
+Qualitative
+
+1. What keywords would you use to describe the voice you worked with?
+kind of Heavy - anunciation of the person was hard, felt that AI's normally are more straight forward to hear over humans who can jumble words
+smooth - didnt feel awkward to listen to 
+
+2. How easy or difficult was it to understand the instructions given by the voice? 
+5/10 - neither hard or difficult. instructions were clear but B2/E2 was confusing
+
+Trust Rating (Engagement & Motivation + Emotional Response): 
+3. Did the voice make the task feel more or less engaging? Why do you think that 
+was? 
+indifferent - "just a voice you know".
+engaged with the instructions but felt as the voice didn't change engagement
+4. How did interacting with the voice make you feel throughout the process? 
+(e.g., frustrated, encouraged, neutral…)? 
+felt easy to use. when I asked what to repeat things it did it perfectly.
+the voice had no effect on mood
+"its a good voice why would I be frusturated?"
+
+5. Did the specific tone or style of the voice influence your mood or attitude while 
+following instructions? 
+felt relaxed. The voice speaking with a human cadence, didn't feel an anxiety cause it was just a person to them
+
+User Satisfaction (Final Thoughts): 
+Would have a chat with the bot again.
+Only "issue" would be sound specifity of certain words
+
+(if the voice were to change in any sort of way, do you think a different voice could have helped you better in any sort of aspect?)
+the voice I felt wouldn't have any impact, but maybe a more energetic voice could keep me gauged. not exactly for completing tasks though, I wouldn't know if it would help with task completion
+

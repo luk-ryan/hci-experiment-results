@@ -1,0 +1,65 @@
+ChatGPT voice - 3DNPUZ
+
+Number of repeats TOTAL:
+0
+Number of repeats per instruction:
+0
+Number of repeats from the beginning:
+0
+Number of stops/pauses requested:
+0
+Number of failures (When they show their work and the proctor concludes it as incorrect):
+0
+Number of steps they followed continously before stopping:
+1-25
+Number of steps done correctly per correctness chain:
+1-17 -anticipated the instrctuion and went 2 down instead of 2 left, fixed before next instruction
+18-23 -placed on B4 but immedietly corrected
+24-25
+Number of breaks from correctness (should be close to/the same as stops):
+2
+Time from the end of the first instruction to completion:
+2:02 [2:52-4:54]
+Time between all repeats:
+N/A
+Time between failures:
+N/A
+
+Notes from quantitative:
+- removing the items from the board, he would drag them out anywhere for the shapes to snap back to home instead of dropping it one by one
+- held objects as soon as he heard them and kept trying to anticipate instructions
+- kept pace with instructions even when incorrect
+- ChatGPT didn't say to talk to the instructor after finishing
+
+Qualitative
+
+1. What keywords would you use to describe the voice you worked with?
+cis-gender, male, very robotic, a bit fast
+(did you like or dislike the voice?)
+I didn't hate it but I didn't like it, 4/10
+
+2. How easy or difficult was it to understand the instructions given by the voice? 
+It was pretty clear, pretty good clarity wise, 9-8/10
+
+Trust Rating (Engagement & Motivation + Emotional Response): 
+3. Did the voice make the task feel more or less engaging? Why do you think that 
+was? 
+It felt more engaing, expressed it felt it would be boring if it was just reading an instruction, liked listening more
+
+
+4. How did interacting with the voice make you feel throughout the process? 
+(e.g., frustrated, encouraged, neutral…)? 
+Did not interact with the voice
+
+5. Did the specific tone or style of the voice influence your mood or attitude while 
+following instructions? 
+not really; expressed that the robotic voice matched with the robotic task given
+
+User Satisfaction (Final Thoughts): 
+6. How would you describe your overall experience working with the voice to 
+complete the task?
+Good. would prefer a nicer voice like a more human like voice. expresses that siri felt more real
+(did you think there would be a difference if it was a human voice?)
+Felt it would be worse if it was a human voice as an AI voice has the same tone and is easier to follow (?)
+
+
