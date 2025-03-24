@@ -5,18 +5,31 @@
 Data to Collect from specifically the experiment portion
 
 - Number of repeats TOTAL:
+  - 1
 - Number of repeats per instruction:
+  - Step 1: 1
 - Number of repeats from the beginning:
+  - 1
 - Number of stops/pauses requested:
+  - 0
 - Number of failures (When they show their work and the proctor concludes it as incorrect):
+  - 1
 - Number of steps they followed continously before stopping:
+  - 1 - 25
+  - 1 - 25
 - Number of steps done correctly per correctness chain:
+  - 1 - 2 (Finished 1st attempt without pausing)
+  - 1 - 25
 - Number of breaks from correctness (should be close to/the same as stops):
+  - 1
 - Time from the end of the first instruction to completion:
-- Time between start -> repeats: N/A
-- Time between all repeats: N/A
-- Time between last repeat -> end: N/A
-- Time between failures: N/A
+  - 4m 46s [1:58 - 6:48]
+- Time between all repeats:
+  - Start to 1st - 1m 26s
+  - 1st to End - 1m 32s
+- Time between failures:
+  - Start to 1st: 1m 26s [1:58 - 3:28]
+  - 1st to End: 1m 32s [5:16 - 6:48]
 
 # Qualitative data collection
 
