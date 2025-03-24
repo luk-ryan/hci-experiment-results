@@ -49,14 +49,14 @@ Data to Collect from specifically the experiment portion
 - Time between all repeats:
   - Start to 1st: 1m
   - 2nd - 43s
-  - 3rd - 24s
-  - 4th - 1m 18s (Attempt #2)
+  - 3rd - 24s (To Attempt 1 fin)
+  - 4th - 1m 18s (Includes Break until Attempt #2 start)
   - 5th - 22s
   - 6th - 27s
   - 7th - 22s
   - 8th - 17s
-  - 9th - 1m 20s
-  - 10th - 52s (Attempt #3)
+  - 9th - 1m 20s (To Attempt 2 fin)
+  - 10th - 52s (Includes break until Attempt #3)
   - 11th - 44s
   - 12th - 15s
   - 13th - 11s
