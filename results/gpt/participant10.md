@@ -9,7 +9,7 @@ Data to Collect from specifically the experiment portion
 - Number of repeats per instruction:
   - Only step 23, once
 - Number of repeats from the beginning:
-  - 1
+  - 0
 - Number of stops/pauses requested:
   - 1
 - Number of failures (When they show their work and the proctor concludes it as incorrect):
