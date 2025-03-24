@@ -59,7 +59,7 @@ frustrations all together as well
 
 ## Perceived Ease of Use (Clarity and Understanding):
 
-- **What keywords would you use to describe the voice you worked with?**
+- **What keywords would you use to describe the voice you worked with**
 
   - Robotic, Monotone, pushy, too fast
 
